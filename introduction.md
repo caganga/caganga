@@ -1,5 +1,0 @@
-- 👋 Hi, I’m Çağan.
-- 👀 I’m interested in learning cool stuff.
-- 🌱 I’m currently learning Java.
-- 📫 idk why someone would want to reach me but here is my steam account just in case https://steamcommunity.com/id/caganga/
-- One of the main reasons why i started coding is because i spend a lot of time playing video games and spending time online.
