@@ -15,7 +15,7 @@
 
 <a href="https://instagram.com/cagan_ozkann" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cagan_ozkann" height="30" width="40" /></a>
 
-  <a href="https://steamcommunity.com/id/caganga" target="blank"><img align="center" src="https://cdn0.iconfinder.com/data/icons/font-awesome-brands-vol-2/512/steam-128.png" alt="" height="30" width="40" /></a>
+
 
 </p>
 
